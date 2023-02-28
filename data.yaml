@@ -1,0 +1,53 @@
+seller: WholesaleTec
+categories:
+  - id: 11
+    name: Смартфоны
+  - id: 12
+    name: Компьютеры
+  - id: 13
+    name: Планшеты
+goods:
+  - id: 120035
+    category: 11
+    model: apple/iphone/14
+    name: Смартфон Apple iPhone 14 256GB (Silver)
+    price: 60000
+    price_rrc: 70000
+    quantity: 10
+    parameters:
+      "SIM": nano-SIM + eSIM
+      "Встроенная память (Гб)": 256
+      "Цвет": Silver
+  - id: 120036
+    category: 11
+    model: apple/iphone/14-Plus
+    name: Смартфон Apple iPhone 14 Plus 128GB (Space Black)
+    price: 62000
+    price_rrc: 76000
+    quantity: 20
+    parameters:
+      "SIM": eSIM
+      "Встроенная память (Гб)": 128
+      "Цвет": Space Black
+  - id: 120037
+    category: 11
+    model: apple/iphone/14-Pro
+    name: Смартфон Apple iPhone 14 Pro 256GB (Gold)
+    price: 74000
+    price_rrc: 84000
+    quantity: 5
+    parameters:
+      "SIM": eSIM
+      "Встроенная память (Гб)": 256
+      "Цвет": Gold
+  - id: 120038
+    category: 11
+    model: apple/iphone/14-Pro-Max
+    name: Смартфон Apple iPhone 14 Pro Max 512GB (Deep Purple)
+    price: 77000
+    price_rrc: 92000
+    quantity: 15
+    parameters:
+      "SIM": nano-SIM + eSIM
+      "Встроенная память (Гб)": 512
+      "Цвет": Deep Purple
